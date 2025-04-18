@@ -5,7 +5,7 @@
 💻 Passionate about AI and ML, and exploring their potential in healthcare.  
 
 ### 👨‍💻 About Me
-- 🔧 I’m skilled in **Python** and **Excel**.
+- 🔧 I’m skilled in **Python**.
 - 💡 I love developing small scripts and Python applications to automate tasks and solve everyday problems.
 - 🌱 Currently learning the basics of **Artificial Intelligence** and **Machine Learning**.
 - 🧠 I believe AI and ML will drive the future and I want to be part of that revolution.
